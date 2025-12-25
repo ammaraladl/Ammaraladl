@@ -31,13 +31,6 @@ I combine **technical site experience** with **strong documentation and coordina
 
 ## 🛠️ Technical Skills
 
-- Low Current & Security Systems
-
-![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -45,6 +38,12 @@ I combine **technical site experience** with **strong documentation and coordina
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ---
 

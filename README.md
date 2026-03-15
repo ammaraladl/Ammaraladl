@@ -10,7 +10,7 @@
 I'm a Systems & Computers Engineer with hands-on experience in **Low Current Systems, Security Systems, and large-scale infrastructure projects As Document Contoller**.
 
 I worked on major projects in Saudi Arabia including:
-- Saudi Water Authority projects (Ras Al Khair, Khafji, 7 Reservoirs)
+- Saudi Water Authority projects (Ras Al Khair Plant, Khafji Plant,  Reservoirs)
 - Banks, Stadiums, Airports, and Government Facilities
 
 I combine **technical site experience** with **strong documentation and coordination skills**, and I also have a background in **front-end web development**.
